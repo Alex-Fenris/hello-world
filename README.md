@@ -1,2 +1,4 @@
 # hello-world
-My first
+
+I'm very happy to start with GitHub.
+See you sone, i hope.
